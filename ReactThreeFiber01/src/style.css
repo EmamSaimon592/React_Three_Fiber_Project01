@@ -1,0 +1,16 @@
+html , body , #root{
+  width: 100vw;
+  height: 100vh;
+
+}
+
+#root{
+  position: fixed;
+  background-color: black;
+
+}
+
+body {
+  overflow: hidden;
+}
+
