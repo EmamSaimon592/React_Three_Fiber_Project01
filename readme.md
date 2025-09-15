@@ -7,7 +7,7 @@
 This project is a **3D rotating cylinder** built using [React Three Fiber](https://docs.pmnd.rs/react-three-fiber), showcasing **texture mapping**, **postprocessing effects** (like Bloom and Tone Mapping), and real-time **animation** using the `useFrame` hook.
 
 
-## Tech Stack❤️
+## Tech Stack
 
 - **React**
 - **React Three Fiber**
